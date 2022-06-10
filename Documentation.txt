@@ -1,0 +1,13 @@
+**************************************************************
+                         Documentation
+**************************************************************
+
+                         Author Details
+Name: Arnav Singh
+Topic : Data Structures with C
+Batch : Bachelors of Computer Applications(BCA Sem II)
+Github : www.github.com/Shrarn
+Description : Getting to know Data Structures using C language 
+              by Topic-wise Practice Method
+
+**************************************************************
